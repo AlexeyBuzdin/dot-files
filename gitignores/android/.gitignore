@@ -5,12 +5,18 @@
 # Packages
 *.jar
 *.apk
+*.ap_
+
+# Generated files
+local.properties
 
 # Generated folders
 out/
+bin/
 gen/
 target/
 
 # Project files
 .idea/
 .project
+.classpath
