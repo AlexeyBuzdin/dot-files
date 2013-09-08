@@ -1,0 +1,16 @@
+# Binary files
+*.class
+*.dex
+
+# Packages
+*.jar
+*.apk
+
+# Generated folders
+out/
+gen/
+target/
+
+# Project files
+.idea/
+.project
