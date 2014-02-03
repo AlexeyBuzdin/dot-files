@@ -25,5 +25,5 @@ gen-external-apklibs/
 .classpath
 
 # Misc
-.DS_Store
+*.DS_Store
 *.swp
