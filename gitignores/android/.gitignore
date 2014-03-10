@@ -15,6 +15,7 @@ local.properties
 out/
 bin/
 gen/
+*/build/
 target/
 .gradle/
 gen-external-apklibs/
