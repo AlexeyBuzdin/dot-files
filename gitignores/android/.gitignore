@@ -4,6 +4,7 @@
 
 # Packages
 *.jar
+!*gradle-wrapper.jar
 *.apk
 *.ap_
 
