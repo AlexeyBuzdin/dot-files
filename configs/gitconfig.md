@@ -14,12 +14,12 @@
 [push]
     default = matching
 [credential]
-	  helper = osxkeychain
+    helper = osxkeychain
 [branch]
-	  autosetuprebase = always
+    autosetuprebase = always
 [user]
-	  name = Alexey Buzdin
-	  email = alex.buzdin@gmail.com
+    name = Alexey Buzdin
+    email = alex.buzdin@gmail.com
 ```
 
 ##### /usr/local/bin/p4merge
