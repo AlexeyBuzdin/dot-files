@@ -13,6 +13,7 @@
 out/
 bin/
 gen/
+build/
 target/
 .gradle/
 
