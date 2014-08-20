@@ -23,6 +23,7 @@ target/
 *.iml
 .project
 .classpath
+.settings/
 
 # Misc
 *.DS_Store
