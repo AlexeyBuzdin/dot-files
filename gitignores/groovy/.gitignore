@@ -5,6 +5,7 @@
 *.jar
 *.ear
 *.war
+!*gradle-wrapper.jar
 
 # Generated files
 
