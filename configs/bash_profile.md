@@ -7,5 +7,5 @@ alias la='ls -a'
 # Variables
 ```
 source /Library/Developer/CommandLineTools/usr/share/git-core/git-prompt.sh
-export PS1="\[\e[1;32m\]\[\e[40m\]\u \w$(__git_ps1 ' (%s)')> \[\e[m\]\[\e[0;32m\]\[\e[40m\]"
+export PS1="\[\e[1;33m\]\[\e[40m\]\T \u \w\$(__git_ps1 ' (%s)')> \[\e[m\]\[\e[0;32m\]\[\e[40m\]"
 ```
