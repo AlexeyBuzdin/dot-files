@@ -12,7 +12,7 @@
 [diff]
     external = p4diff
 [push]
-    default = matching
+    default = current
 [credential]
     helper = osxkeychain
 [branch]
