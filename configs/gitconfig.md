@@ -20,6 +20,10 @@
 [user]
     name = Alexey Buzdin
     email = alex.buzdin@gmail.com
+[alias]
+    st = status
+    sshow = "!f() { git stash show stash^{/$*} -p; }; f"
+    sapply = "!f() { git stash apply stash^{/$*}; }; f"
 ```
 
 ##### /usr/local/bin/p4merge
