@@ -37,3 +37,8 @@
 #!/bin/sh
 [ $# -eq 7 ] && /usr/local/bin/p4merge "$2" "$PWD/$5"
 ```
+
+#### Git Commands
+```
+git config --global alias.clone-branches '! git branch -a | sed -n "/\/HEAD /d; /\/master$/d; /remotes/p;" | xargs -L1 git checkout -t'
+```
